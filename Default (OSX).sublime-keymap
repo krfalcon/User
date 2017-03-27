@@ -1,0 +1,12 @@
+ [
+  {
+    "keys": ["ctrl+e"],
+    "command": "move_to",
+    "args": {"to": "eol", "extend": false}
+  },
+	{
+		"keys": ["alt+super+j"],
+		"command": "autoprefixer"
+	}
+
+]
